@@ -62,7 +62,7 @@ router.get('/', async (req, res) => {
 
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*_Pair Code Connected by NEXUS AI*
+*_Pair Code Connected by JEEPERS CREEPERS-XMD*
 ______________________________________
 ╔════◇
 ║ *『 APPRECIATED 👍 FOR  SHOWING LOVE』*
@@ -70,10 +70,10 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/254794146821_
-║❒ *Repo:* _https://github.com/Pkdriller/NEXUS-AI
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x _
-║❒ *Follow GitHub:*https://github.com/Pkdriller__
+║❒ *Owner:* _https://wa.me/254717263689_
+║❒ *Repo:* _https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g_
+║❒ *Follow GitHub:*https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git__
 ╚════════════════════════╝
 _____________________________________
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
