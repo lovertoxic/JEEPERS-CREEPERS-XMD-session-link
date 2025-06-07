@@ -62,7 +62,7 @@ router.get('/', async (req, res) => {
 
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*_Pair Code Connected by JEEPERS CREEPERS-XMD*
+*_Pair Code Connected by JEEPERS CREEPER-XMD*
 ______________________________________
 ╔════◇
 ║ *『 APPRECIATED 👍 FOR  SHOWING LOVE』*
@@ -71,9 +71,9 @@ ______________________________________
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Owner:* _https://wa.me/254717263689_
-║❒ *Repo:* _https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git
+║❒ *Repo:* _https://github.com/toxiclover-tech/TOXIC-LOVER-MD
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g_
-║❒ *Follow GitHub:*https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git__
+║❒ *Follow GitHub:*https://github.com/toxiclover-tech/TOXIC-LOVER-MD
 ╚════════════════════════╝
 _____________________________________
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
