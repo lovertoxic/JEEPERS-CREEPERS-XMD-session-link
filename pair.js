@@ -70,7 +70,7 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/254717263689_
+║❒ *Owner:* _https://wa.link/3rc9x7
 ║❒ *Repo:* _https://github.com/toxiclover-tech/TOXIC-LOVER-MD
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g_
 ║❒ *Follow GitHub:*https://github.com/toxiclover-tech/TOXIC-LOVER-MD
