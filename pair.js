@@ -61,7 +61,7 @@ router.get('/', async (req, res) => {
 
 
 
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
 *_Pair Code Connected by JEEPERS CREEPER-XMD*
 ______________________________________
 ╔════◇
@@ -73,10 +73,10 @@ ______________________________________
 ║❒ *Owner:* _https://wa.link/3rc9x7
 ║❒ *Repo:* _https://github.com/toxiclover-tech/TOXIC-LOVER-MD
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g_
-║❒ *Follow GitHub:*https://github.com/toxiclover-tech/TOXIC-LOVER-MD
+║❒ *Follow GitHub:*https://github.com/toxiclover-tech
 ╚════════════════════════╝
 _____________________________________
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
 `
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
