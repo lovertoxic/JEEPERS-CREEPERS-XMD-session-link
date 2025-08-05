@@ -61,7 +61,7 @@ router.get('/', async (req, res) => {
 
 
 
-♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
+♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
 *_Pair Code Connected by JEEPERS CREEPER-XMD*
 ______________________________________
 ╔════◇
@@ -70,13 +70,13 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.link/3rc9x7
-║❒ *Repo:* _https://github.com/toxiclover-tech/TOXIC-LOVER-MD
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g_
-║❒ *Follow GitHub:*https://github.com/toxiclover-tech
+║❒ *Owner:* _sir bravin 
+║❒ *Repo:* _https://github.com/black-spider436/jeepers-creeper-xmd
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o_
+║❒ *Follow GitHub:*https://github.com/black-spider436
 ╚════════════════════════╝
 _____________________________________
-♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
+♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
 `
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
@@ -86,7 +86,7 @@ _____________________________________
         return await removeFile('./temp/'+id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
-                    FLASH_MD_PAIR_CODE();
+                   FLASH_MD_PAIR_CODE();
                 }
             });
         } catch (err) {
