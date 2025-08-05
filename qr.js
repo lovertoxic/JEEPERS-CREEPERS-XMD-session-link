@@ -65,7 +65,7 @@ THANKYOU FOR CHOOSING JEEPERS CREEPERS-XMD
   💥VERY ACTIVE 🙅
       🕊️𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐰𝐚𝐲𝐬🍏
   ╰━━━━🥺━━━━╯💚🔙
-❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g_
+❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o_
 ║ 
 follow our channel to learn how to deploy..
 Repository available at our channel`
